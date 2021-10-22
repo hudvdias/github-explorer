@@ -12,6 +12,7 @@ Projeto do módulo 01 do bootcamp Ignite React da Rocketseat. É uma aplicação
 - Webpack
 - Typescript
 - Fundamentos React (incluindo React Hooks)
+- SCSS
 
 ---
 
